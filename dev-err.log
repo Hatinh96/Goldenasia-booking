@@ -1,0 +1,256 @@
+[2m12:20:12 AM[22m [31m[1m[vite][22m[39m [31mInternal server error: A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\src\App.tsx: Unexpected token (184:0)
+
+[0m [90m 182 |[31m   }[33m;[31m
+ [90m 183 |[31m
+[31m[1m>[22m[31m[90m 184 |[31m
+ [90m     |[31m [31m[1m^[22m[31m[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mA:/PM FINNAL/A SUPER APP/SaaS Digital Signage/oohmaster-booking/src/App.tsx[39m:184:0
+[33m  182|    };
+  183|  
+  184|  
+     |  ^[39m
+      at constructor (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:365:19)
+      at TypeScriptParserMixin.raise (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:6599:19)
+      at TypeScriptParserMixin.unexpected (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:6619:16)
+      at TypeScriptParserMixin.parseExprAtom (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:11442:22)
+      at TypeScriptParserMixin.parseExprAtom (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:4764:20)
+      at TypeScriptParserMixin.parseExprSubscripts (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:11081:23)
+      at TypeScriptParserMixin.parseUpdate (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:11066:21)
+      at TypeScriptParserMixin.parseMaybeUnary (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:11046:23)
+      at TypeScriptParserMixin.parseMaybeUnary (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:9837:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10899:61)
+      at TypeScriptParserMixin.parseExprOps (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10904:23)
+      at TypeScriptParserMixin.parseMaybeConditional (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10881:23)
+      at TypeScriptParserMixin.parseMaybeAssign (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10831:21)
+      at TypeScriptParserMixin.parseMaybeAssign (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:9786:20)
+      at TypeScriptParserMixin.parseExpressionBase (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10784:23)
+      at A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10780:39
+      at TypeScriptParserMixin.allowInAnd (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:12421:16)
+      at TypeScriptParserMixin.parseExpression (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10780:17)
+      at TypeScriptParserMixin.parseStatementContent (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:12895:23)
+      at TypeScriptParserMixin.parseStatementContent (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:9508:18)
+      at TypeScriptParserMixin.parseStatementLike (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:12767:17)
+      at TypeScriptParserMixin.parseStatementListItem (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:12747:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:13316:61)
+      at TypeScriptParserMixin.parseBlockBody (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:13309:10)
+      at TypeScriptParserMixin.parseBlock (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:13297:10)
+      at TypeScriptParserMixin.parseFunctionBody (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:12100:24)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:12086:10)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:9172:18)
+      at A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:13445:12
+      at TypeScriptParserMixin.withSmartMixTopicForbiddingContext (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:12403:14)
+      at TypeScriptParserMixin.parseFunction (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:13444:10)
+      at TypeScriptParserMixin.parseExportDefaultExpression (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:13907:19)
+      at TypeScriptParserMixin.parseExportDefaultExpression (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:9402:18)
+      at TypeScriptParserMixin.parseExport (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:13828:25)
+      at TypeScriptParserMixin.parseExport (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:9385:20)
+      at TypeScriptParserMixin.parseStatementContent (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:12878:27)
+      at TypeScriptParserMixin.parseStatementContent (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:9508:18)
+      at TypeScriptParserMixin.parseStatementLike (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:12767:17)
+      at TypeScriptParserMixin.parseModuleItem (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:12744:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:13316:36)
+      at TypeScriptParserMixin.parseBlockBody (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:13309:10)
+      at TypeScriptParserMixin.parseProgram (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:12622:10)
+      at TypeScriptParserMixin.parseTopLevel (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:12612:25)
+      at TypeScriptParserMixin.parse (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:14488:25)
+      at TypeScriptParserMixin.parse (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10126:18)
+      at parse (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:14522:38)
+      at parser (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\core\lib\parser\index.js:41:34)
+      at parser.next (<anonymous>)
+      at normalizeFile (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\core\lib\transformation\normalize-file.js:64:37)
+      at normalizeFile.next (<anonymous>)
+[2m12:20:43 AM[22m [31m[1m[vite][22m[39m [31mInternal server error: A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\src\App.tsx: Unterminated JSX contents. (278:20)
+
+[0m [90m 276 |[31m               {demo [33m?[31m [32m'Demo mode: add Supabase env vars to run live backend.'[31m [33m:[31m [32m'Live mode: connected to Supabase.'[31m}
+ [90m 277 |[31m             [33m<[31m[33m/[31m[33mp[31m[33m>[31m
+[31m[1m>[22m[31m[90m 278 |[31m           [33m<[31m[33m/[31m[33msection[31m[33m>[31m
+ [90m     |[31m                     [31m[1m^[22m[31m
+ [90m 279 |[31m
+ [90m 280 |[31m[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mA:/PM FINNAL/A SUPER APP/SaaS Digital Signage/oohmaster-booking/src/App.tsx[39m:278:20
+[33m  276|                {demo ? 'Demo mode: add Supabase env vars to run live backend.' : 'Live mode: connected to Supabase.'}
+  277|              </p>
+  278|            </section>
+     |                      ^
+  279|  
+  280|  [39m
+      at constructor (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:365:19)
+      at TypeScriptParserMixin.raise (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:6599:19)
+      at TypeScriptParserMixin.jsxReadToken (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:4448:20)
+      at TypeScriptParserMixin.getTokenFromCode (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:4774:12)
+      at TypeScriptParserMixin.getTokenFromCode (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:9987:11)
+      at TypeScriptParserMixin.nextToken (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:5782:10)
+      at TypeScriptParserMixin.next (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:5692:10)
+      at TypeScriptParserMixin.eat (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:5696:12)
+      at TypeScriptParserMixin.expect (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:6898:15)
+      at TypeScriptParserMixin.jsxParseClosingElementAt (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:4680:10)
+      at TypeScriptParserMixin.jsxParseElementAt (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:4695:37)
+      at TypeScriptParserMixin.jsxParseElementAt (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:4698:32)
+      at TypeScriptParserMixin.jsxParseElementAt (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:4698:32)
+      at TypeScriptParserMixin.jsxParseElementAt (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:4698:32)
+      at TypeScriptParserMixin.jsxParseElement (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:4749:17)
+      at TypeScriptParserMixin.parseExprAtom (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:4759:19)
+      at TypeScriptParserMixin.parseExprSubscripts (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:11081:23)
+      at TypeScriptParserMixin.parseUpdate (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:11066:21)
+      at TypeScriptParserMixin.parseMaybeUnary (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:11046:23)
+      at TypeScriptParserMixin.parseMaybeUnary (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:9837:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10899:61)
+      at TypeScriptParserMixin.parseExprOps (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10904:23)
+      at TypeScriptParserMixin.parseMaybeConditional (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10881:23)
+      at TypeScriptParserMixin.parseMaybeAssign (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10831:21)
+      at A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:9775:39
+      at TypeScriptParserMixin.tryParse (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:6907:20)
+      at TypeScriptParserMixin.parseMaybeAssign (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:9775:18)
+      at A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10800:39
+      at TypeScriptParserMixin.allowInAnd (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:12426:12)
+      at TypeScriptParserMixin.parseMaybeAssignAllowIn (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10800:17)
+      at TypeScriptParserMixin.parseMaybeAssignAllowInOrVoidPattern (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:12493:17)
+      at TypeScriptParserMixin.parseParenAndDistinguishExpression (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:11675:28)
+      at TypeScriptParserMixin.parseExprAtom (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:11331:23)
+      at TypeScriptParserMixin.parseExprAtom (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:4764:20)
+      at TypeScriptParserMixin.parseExprSubscripts (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:11081:23)
+      at TypeScriptParserMixin.parseUpdate (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:11066:21)
+      at TypeScriptParserMixin.parseMaybeUnary (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:11046:23)
+      at TypeScriptParserMixin.parseMaybeUnary (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:9837:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10899:61)
+      at TypeScriptParserMixin.parseExprOps (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10904:23)
+      at TypeScriptParserMixin.parseMaybeConditional (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10881:23)
+      at TypeScriptParserMixin.parseMaybeAssign (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10831:21)
+      at TypeScriptParserMixin.parseMaybeAssign (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:9786:20)
+      at TypeScriptParserMixin.parseExpressionBase (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10784:23)
+      at A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10780:39
+      at TypeScriptParserMixin.allowInAnd (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:12421:16)
+      at TypeScriptParserMixin.parseExpression (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10780:17)
+      at TypeScriptParserMixin.parseReturnStatement (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:13142:28)
+      at TypeScriptParserMixin.parseStatementContent (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:12798:21)
+      at TypeScriptParserMixin.parseStatementContent (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:9508:18)
+[2m12:21:14 AM[22m [31m[1m[vite][22m[39m [31mInternal server error: A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\src\App.tsx: Unterminated JSX contents. (347:20)
+
+[0m [90m 345 |[31m               [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m 346 |[31m             [33m<[31m[33m/[31m[33marticle[31m[33m>[31m
+[31m[1m>[22m[31m[90m 347 |[31m           [33m<[31m[33m/[31m[33msection[31m[33m>[31m
+ [90m     |[31m                     [31m[1m^[22m[31m
+ [90m 348 |[31m[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mA:/PM FINNAL/A SUPER APP/SaaS Digital Signage/oohmaster-booking/src/App.tsx[39m:347:20
+[33m  345|                </div>
+  346|              </article>
+  347|            </section>
+     |                      ^
+  348|  [39m
+      at constructor (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:365:19)
+      at TypeScriptParserMixin.raise (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:6599:19)
+      at TypeScriptParserMixin.jsxReadToken (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:4448:20)
+      at TypeScriptParserMixin.getTokenFromCode (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:4774:12)
+      at TypeScriptParserMixin.getTokenFromCode (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:9987:11)
+      at TypeScriptParserMixin.nextToken (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:5782:10)
+      at TypeScriptParserMixin.next (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:5692:10)
+      at TypeScriptParserMixin.eat (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:5696:12)
+      at TypeScriptParserMixin.expect (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:6898:15)
+      at TypeScriptParserMixin.jsxParseClosingElementAt (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:4680:10)
+      at TypeScriptParserMixin.jsxParseElementAt (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:4695:37)
+      at TypeScriptParserMixin.jsxParseElementAt (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:4698:32)
+      at TypeScriptParserMixin.jsxParseElementAt (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:4698:32)
+      at TypeScriptParserMixin.jsxParseElementAt (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:4698:32)
+      at TypeScriptParserMixin.jsxParseElement (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:4749:17)
+      at TypeScriptParserMixin.parseExprAtom (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:4759:19)
+      at TypeScriptParserMixin.parseExprSubscripts (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:11081:23)
+      at TypeScriptParserMixin.parseUpdate (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:11066:21)
+      at TypeScriptParserMixin.parseMaybeUnary (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:11046:23)
+      at TypeScriptParserMixin.parseMaybeUnary (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:9837:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10899:61)
+      at TypeScriptParserMixin.parseExprOps (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10904:23)
+      at TypeScriptParserMixin.parseMaybeConditional (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10881:23)
+      at TypeScriptParserMixin.parseMaybeAssign (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10831:21)
+      at A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:9775:39
+      at TypeScriptParserMixin.tryParse (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:6907:20)
+      at TypeScriptParserMixin.parseMaybeAssign (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:9775:18)
+      at A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10800:39
+      at TypeScriptParserMixin.allowInAnd (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:12426:12)
+      at TypeScriptParserMixin.parseMaybeAssignAllowIn (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10800:17)
+      at TypeScriptParserMixin.parseMaybeAssignAllowInOrVoidPattern (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:12493:17)
+      at TypeScriptParserMixin.parseParenAndDistinguishExpression (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:11675:28)
+      at TypeScriptParserMixin.parseExprAtom (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:11331:23)
+      at TypeScriptParserMixin.parseExprAtom (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:4764:20)
+      at TypeScriptParserMixin.parseExprSubscripts (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:11081:23)
+      at TypeScriptParserMixin.parseUpdate (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:11066:21)
+      at TypeScriptParserMixin.parseMaybeUnary (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:11046:23)
+      at TypeScriptParserMixin.parseMaybeUnary (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:9837:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10899:61)
+      at TypeScriptParserMixin.parseExprOps (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10904:23)
+      at TypeScriptParserMixin.parseMaybeConditional (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10881:23)
+      at TypeScriptParserMixin.parseMaybeAssign (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10831:21)
+      at TypeScriptParserMixin.parseMaybeAssign (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:9786:20)
+      at TypeScriptParserMixin.parseExpressionBase (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10784:23)
+      at A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10780:39
+      at TypeScriptParserMixin.allowInAnd (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:12421:16)
+      at TypeScriptParserMixin.parseExpression (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10780:17)
+      at TypeScriptParserMixin.parseReturnStatement (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:13142:28)
+      at TypeScriptParserMixin.parseStatementContent (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:12798:21)
+      at TypeScriptParserMixin.parseStatementContent (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:9508:18)
+[2m12:21:53 AM[22m [31m[1m[vite][22m[39m [31mInternal server error: A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\src\App.tsx: Unterminated JSX contents. (427:20)
+
+[0m [90m 425 |[31m               [33m<[31m[33m/[31m[33mform[31m[33m>[31m
+ [90m 426 |[31m             [33m<[31m[33m/[31m[33marticle[31m[33m>[31m
+[31m[1m>[22m[31m[90m 427 |[31m           [33m<[31m[33m/[31m[33msection[31m[33m>[31m
+ [90m     |[31m                     [31m[1m^[22m[31m
+ [90m 428 |[31m[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mA:/PM FINNAL/A SUPER APP/SaaS Digital Signage/oohmaster-booking/src/App.tsx[39m:427:20
+[33m  425|                </form>
+  426|              </article>
+  427|            </section>
+     |                      ^
+  428|  [39m
+      at constructor (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:365:19)
+      at TypeScriptParserMixin.raise (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:6599:19)
+      at TypeScriptParserMixin.jsxReadToken (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:4448:20)
+      at TypeScriptParserMixin.getTokenFromCode (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:4774:12)
+      at TypeScriptParserMixin.getTokenFromCode (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:9987:11)
+      at TypeScriptParserMixin.nextToken (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:5782:10)
+      at TypeScriptParserMixin.next (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:5692:10)
+      at TypeScriptParserMixin.eat (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:5696:12)
+      at TypeScriptParserMixin.expect (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:6898:15)
+      at TypeScriptParserMixin.jsxParseClosingElementAt (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:4680:10)
+      at TypeScriptParserMixin.jsxParseElementAt (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:4695:37)
+      at TypeScriptParserMixin.jsxParseElementAt (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:4698:32)
+      at TypeScriptParserMixin.jsxParseElementAt (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:4698:32)
+      at TypeScriptParserMixin.jsxParseElementAt (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:4698:32)
+      at TypeScriptParserMixin.jsxParseElement (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:4749:17)
+      at TypeScriptParserMixin.parseExprAtom (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:4759:19)
+      at TypeScriptParserMixin.parseExprSubscripts (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:11081:23)
+      at TypeScriptParserMixin.parseUpdate (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:11066:21)
+      at TypeScriptParserMixin.parseMaybeUnary (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:11046:23)
+      at TypeScriptParserMixin.parseMaybeUnary (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:9837:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10899:61)
+      at TypeScriptParserMixin.parseExprOps (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10904:23)
+      at TypeScriptParserMixin.parseMaybeConditional (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10881:23)
+      at TypeScriptParserMixin.parseMaybeAssign (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10831:21)
+      at A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:9775:39
+      at TypeScriptParserMixin.tryParse (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:6907:20)
+      at TypeScriptParserMixin.parseMaybeAssign (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:9775:18)
+      at A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10800:39
+      at TypeScriptParserMixin.allowInAnd (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:12426:12)
+      at TypeScriptParserMixin.parseMaybeAssignAllowIn (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10800:17)
+      at TypeScriptParserMixin.parseMaybeAssignAllowInOrVoidPattern (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:12493:17)
+      at TypeScriptParserMixin.parseParenAndDistinguishExpression (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:11675:28)
+      at TypeScriptParserMixin.parseExprAtom (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:11331:23)
+      at TypeScriptParserMixin.parseExprAtom (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:4764:20)
+      at TypeScriptParserMixin.parseExprSubscripts (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:11081:23)
+      at TypeScriptParserMixin.parseUpdate (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:11066:21)
+      at TypeScriptParserMixin.parseMaybeUnary (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:11046:23)
+      at TypeScriptParserMixin.parseMaybeUnary (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:9837:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10899:61)
+      at TypeScriptParserMixin.parseExprOps (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10904:23)
+      at TypeScriptParserMixin.parseMaybeConditional (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10881:23)
+      at TypeScriptParserMixin.parseMaybeAssign (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10831:21)
+      at TypeScriptParserMixin.parseMaybeAssign (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:9786:20)
+      at TypeScriptParserMixin.parseExpressionBase (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10784:23)
+      at A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10780:39
+      at TypeScriptParserMixin.allowInAnd (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:12421:16)
+      at TypeScriptParserMixin.parseExpression (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:10780:17)
+      at TypeScriptParserMixin.parseReturnStatement (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:13142:28)
+      at TypeScriptParserMixin.parseStatementContent (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:12798:21)
+      at TypeScriptParserMixin.parseStatementContent (A:\PM FINNAL\A SUPER APP\SaaS Digital Signage\oohmaster-booking\node_modules\@babel\parser\lib\index.js:9508:18)
